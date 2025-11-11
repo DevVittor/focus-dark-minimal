@@ -1,0 +1,58 @@
+{
+  "name": "focus-dark-minimal",
+  "displayName": "Focus Dark Minimal",
+  "description": "Tema dark minimalista para VS Code: visual limpo, alto foco e ótima legibilidade para programar por horas.",
+  "version": "0.0.2",
+  "publisher": "UnioJavaScript",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "icon": "logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Produtividade e Otimização",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Focus-Dark-Minimal-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "workbench.iconTheme": "symbols",
+      "editor.fontFamily": "FiraCode",
+      "editor.fontLigatures": true,
+      "workbench.startupEditor": "none",
+      "editor.fontSize": 18,
+      "editor.fontWeight": "400",
+      "editor.lineHeight": 1.8,
+      "explorer.compactFolders": false,
+      "files.autoSave": "afterDelay",
+      "workbench.colorTheme": "Produtividade e Otimização",
+      "editor.tabSize": 2,
+      "editor.formatOnType": true,
+      "editor.formatOnSave": true,
+      "workbench.activityBar.location": "bottom",
+      "editor.minimap.autohide": "mouseover",
+      "workbench.tree.enableStickyScroll": false,
+      "workbench.sideBar.location": "right",
+      "editor.mouseWheelZoom": true,
+      "window.zoomLevel": 0,
+      "editor.wordWrap": "on",
+      "editor.scrollbar.vertical": "hidden",
+      "editor.scrollbar.horizontal": "hidden",
+      "editor.stickyScroll.enabled": false,
+      "editor.scrollbar.verticalScrollbarSize": 0,
+      "editor.scrollbar.horizontalScrollbarSize": 0,
+      "workbench.statusBar.visible": false,
+      "window.commandCenter": false,
+      "breadcrumbs.enabled": false,
+      "editor.rulers": [
+        80,
+        120
+      ],
+      "chat.commandCenter.enabled": false
+    }
+  }
+}
