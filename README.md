@@ -24,7 +24,7 @@ Tema dark minimalista para VS Code: visual limpo, alto foco e ótima legibilidad
 ### Local (.vsix)
 
 ```bash
-code --install-extension ultra-dark-minimal-0.0.1.vsix
+code --install-extension focus-dark-minimal-0.0.4.vsix
 ```
 
 ### Como ativar
@@ -73,7 +73,7 @@ code --install-extension ultra-dark-minimal-0.0.1.vsix
 
 ## Licença
 
-MIT — use, adapte e bora codar feliz.
+MIT — use, altere e publique.
 
 ## Criado por
 
