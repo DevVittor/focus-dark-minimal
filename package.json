@@ -2,7 +2,7 @@
   "name": "focus-dark-minimal",
   "displayName": "Focus Dark Minimal",
   "description": "Tema dark minimalista para VS Code: visual limpo, alto foco e ótima legibilidade para programar por horas.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "UnioJavaScript",
   "engines": {
     "vscode": "^1.105.0"
